@@ -4,7 +4,7 @@
 This is a simple app that displays text and gives the user the option of changing the text, it's color, and the app's background color using multiple buttons. The user can also reset the app by tapping anywhere else on the screen.
 
 ### App Walk-though
-<br><img src="" width=200 /></br>
+![](7xUfhdXRb6.gif)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
