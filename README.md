@@ -4,6 +4,7 @@
 This is a simple app that displays text and gives the user the option of changing the text, it's color, and the app's background color using multiple buttons. The user can also reset the app by tapping anywhere else on the screen.
 
 ### App Walk-though
+![App Demo](https://recordit.co/7xUfhdXRb6)
 <img src="https://www.recordit.co/7xUfhdXRb6" width=200><br>
 
 ### Required User Stories
